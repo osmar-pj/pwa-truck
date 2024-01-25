@@ -72,7 +72,7 @@ export default function Start() {
             <strong>carga efectivo, </strong>
             estableciendo las condiciones necesarias para el{" "}
             <strong>transporte eficiente del material </strong> desde las áreas
-            de trabajo hasta los puntos de carga designados.
+            de trabajo hasta los puntos de carga designados
           </m.p>
         </m.div>
       </div>
