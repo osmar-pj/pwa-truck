@@ -159,7 +159,7 @@ export default function Home() {
                           </option>
                         ))}
                       </select>
-                      <label className="input__label">Seleccione Ruta .</label>
+                      <label className="input__label">Seleccione Ruta</label>
                     </div>
                   </m.div>
                   <m.div className="H-b-imputs-item" variants={fadeInUp}>
